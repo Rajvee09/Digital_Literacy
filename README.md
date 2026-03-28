@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## tudent Details
+## student Details
 - Name: Rajvee  Das
 - Registration Number: 25BCY10022
 - Branch: B.Tech Cybersecurity  
