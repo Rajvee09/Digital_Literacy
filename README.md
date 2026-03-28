@@ -71,7 +71,7 @@ These platforms help in building a strong digital identity and will be used for 
 ---
 
 ## Important Links
-- Google Form Quiz: [PASTE YOUR LINK HERE]
+- Google Form Quiz: (https://docs.google.com/forms/d/e/1FAIpQLScjBOIOTQYc6YHe93e0BItCkuqoiDUNTKUMzVbFeBh1rZulpQ/viewform?usp=dialog)
 
 ---
 
