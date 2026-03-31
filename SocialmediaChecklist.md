@@ -1,6 +1,6 @@
 # Social Media Do’s and Don’ts Checklist
 
-## ✅ Do’s
+##  Do’s
 
 | No. | Do’s |
 
@@ -12,7 +12,7 @@
 
 ---
 
-## ❌ Don’ts
+##  Don’ts
 
 | No. | Don’ts |
 
